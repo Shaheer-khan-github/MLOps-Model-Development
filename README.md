@@ -4,7 +4,7 @@
 
 This repository contains materials from the Weights and Biases course [MLOps Course](https://www.wandb.courses/courses/effective-mlops-model-development)
 
-Bringing machine learning models to production is challenging, with a continuous iterative lifecycle that consists of many complex components. 
+MLOps, or Machine Learning Operations, is a practice that aims to bridge the gap between the development and deployment of machine learning models. It involves applying software engineering and operations practices to the building, testing, deploying, and monitoring of machine learning models in order to improve the speed, scalability, and reliability of the machine learning development process.
 
 Having a disciplined, flexible and collaborative process - an effective MLOps system - is crucial to enabling velocity and rigor, and building an end-to-end machine learning pipeline that continually delivers production-ready ML models and services.
 
