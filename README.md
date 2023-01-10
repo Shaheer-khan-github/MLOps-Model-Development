@@ -1,7 +1,7 @@
 # MLOps-Model-Development
 "Efficient MLOps model development with the power of Wandb for experimentation, monitoring and collaboration."
 
-What is MLOps:
+### What is MLOps:
 MLOps, or Machine Learning Operations, is a practice that aims to bridge the gap between the development and deployment of machine learning models. It involves applying software engineering and operations practices to the building, testing, deploying, and monitoring of machine learning models in order to improve the speed, scalability, and reliability of the machine learning development process.
 
 MLOps can be thought of as a set of best practices, tools, and methodologies for automating, streamlining, and scaling the machine learning development lifecycle. This includes things like version control, testing, continuous integration, and monitoring of machine learning models, as well as the infrastructure and resources needed to train and deploy them.
