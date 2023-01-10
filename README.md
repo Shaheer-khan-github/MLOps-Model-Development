@@ -2,7 +2,7 @@
 
 # Learn Effective MLOps: Model Development
 
-This repository contains materials for our [MLOps Course](https://www.wandb.courses/courses/effective-mlops-model-development)
+This repository contains materials from the Weights and Biases course [MLOps Course](https://www.wandb.courses/courses/effective-mlops-model-development)
 
 Bringing machine learning models to production is challenging, with a continuous iterative lifecycle that consists of many complex components. 
 
